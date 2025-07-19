@@ -4,5 +4,6 @@
   "force_update": false,
   "update_url": "https://github.com/CodeVuong/MTool/releases",
   "motd": "Bạn đang dùng bản DEMO, một số chức năng sẽ bị giới hạn.",
-  "notice": "Nếu có lỗi hãy liên hệ TikTok @haha_he2001"
+  "notice": "Nếu có lỗi hãy liên hệ TikTok @haha_he2001",
+  "status": "DEMO",
 }
