@@ -5,5 +5,7 @@
   "update_url": "https://github.com/CodeVuong/MTool/releases",
   "motd": "Bạn đang dùng bản DEMO, một số chức năng sẽ bị giới hạn.",
   "notice": "Nếu có lỗi hãy liên hệ TikTok @haha_he2001",
-  "status": "DEMO"
+  "status": "DEMO",
+  "versionName": 1.2,
+  "message_uodate": "Cập Nhập Bản Mới Có Thêm Chức Năng\nAuto Thêm Acc Vào Golike\nXem Lịch Sử Chạy\nCài Đặt Chọn APP TikTok Chạy Auto"
 }
