@@ -1,6 +1,6 @@
 {
   "opentest": true,
-  "message": "Chào mừng bạn! App đang mở thử nghiệm.",
+  "message": "Chào mừng bạn! App đang mở thử nghiệm.\nTrong Lúc chạy có lỗi gì hãy báo cho mình qua zalo 0396785304",
   "force_update": true,
   "update_url": "https://drive.google.com/file/d/1z5gskISqngtZfciK7FUR7NXZtjSxymB-/view?usp=sharing",
   "motd": "Bạn đang dùng bản DEMO, một số chức năng sẽ bị giới hạn.",
