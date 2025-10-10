@@ -1,12 +1,1 @@
-{m
-  "opentest": false,
-  "message": "Chào mừng bạn! App đang mở thử nghiệm.\nKHÔNG CẦN VƯỢT LINK.\nBản 2.2 Có Thêm Chức Năng Nuôi Tài Khoản giảm hành động like, share, đăng lại xuống thấp hơn. Để sử dụng ổn bạn phải bật được buộc dừng trong cài đặt.\nđăng nhập ổn định hơn\nTự Đổi acc khi bị đăng xuất\nĐăng Nhập Golike Bằng Token\nMáy Nào không dùng được buộc dừng anh em vào cài đặt bỏ tích vào Buộc Dừng rồi bấm lưu Nhé.\nCó Lỗi hãy quay video gửi zalo 0396785304",
-  "force_update": true,
-  "update_url": "https://drive.google.com/file/d/1cGn3Waq7JJ-4i5lk99SElhcgG0_4irtV/view?usp=sharing",
-  "motd": "Bạn đang dùng bản DEMO, một số chức năng sẽ bị giới hạn.",
-  "notice": "Nếu có lỗi hãy liên hệ TikTok @haha_he2001, zalo 0396785304",
-  "status": "DEMO",
-  "versionName": "9.9.9",
-  "message_uodate": "Vào Telegram: @mtoolmax_bot Tải Ngay Bản Mới Gồm:\n+Fix không xoá được acc fb, update thêm cookie ig hàng loạt\n+Update API Golike FB+Thêm Auto FB GoLike (Fix Lỗi Đứng Ở Check Job)\n+Fix Lỗi Nuôi Bị Đứng Ở Bảng Share\n+Fix Lỗi Intagram\n+Fix Lỗi Chạy TikTok Lite"
-}m
-m
+
